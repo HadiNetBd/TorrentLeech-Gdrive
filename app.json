@@ -14,11 +14,11 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "1560831"
+      "value": "1531"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "5ed392b1b0dd6db796b14d9d242fa144"
+      "value": "5ed392b1bd9d242fa144"
     },
     "TG_BOT_TOKEN": {
       "description": "get this value from @BotFather",
